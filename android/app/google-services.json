@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452911073710",
+    "project_id": "turu-b7196",
+    "storage_bucket": "turu-b7196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452911073710:android:1611800f93a79523c8603f",
+        "android_client_info": {
+          "package_name": "com.example.turu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452911073710-bknrmn0g86m4ord5bfbaqt3esg7i8hu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5fUq6Itx5daxfIsogIFxfSIkVb7XUBJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452911073710-bknrmn0g86m4ord5bfbaqt3esg7i8hu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
